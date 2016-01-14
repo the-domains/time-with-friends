@@ -1,0 +1,28 @@
+name: Time With Friends
+favicon: null
+layout_spectrum: 0.6883272922132164
+typography_spectrum: 0.0056341474410146475
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.07793741230852902
+  lightness: 0.9549957909621298
+  saturation: 0.491355282953009
+  rhythmicContrast: 0.6731500211171806
+purpose: []
